@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Main",
+      "request": "launch",
+      "mainClass": "app.Main",
+      "projectName": "java-mysql-project_850eb3fc"
+    },
+    {
+      "type": "java",
+      "name": "Run Main",
+      "request": "launch",
+      "mainClass": "app.Main",
+      "projectName": "Library Management System",
+      "classPaths": [
+        "lib/mysql-connector-j-9.2.0.jar"
+      ]
+    }
+  ]
+}
